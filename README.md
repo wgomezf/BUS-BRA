@@ -9,7 +9,7 @@ Here, we provide the source codes to reproduce the experiments in the article th
 1. Segmentation: It contains the functions for semantic segmentation of BUS images using the DeepLabV3+ model with ResNet18 and ResNet50 back-bone networks for feature extraction.
 2. Classification:  It contains the functions for classifying BUS images into ways: 1) pathology classes in benign and malignant cases and 2) BI-RADS categories 2 to 5. The ResNet18 and ResNet50 deep networks are used for feature extraction.
 
-The BUS-BRA dataset should first be downloaded and decompressed in the root directory in both cases. Then run the RUNME.m file inide the Classification and Segmentation folders to reproduce the experiments using 5-fold cross-validation.
+The BUS-BRA dataset should first be downloaded and decompressed in the root directory in both cases. Then run the RUNME.m file inside the Classification and Segmentation folders to reproduce the experiments using 5-fold cross-validation.
 
 ![picture alt](https://github.com/wgomezf/BUS-BRA/blob/main/directory.png "Directory")
 
