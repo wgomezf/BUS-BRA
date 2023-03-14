@@ -1,4 +1,4 @@
-# BUS-BRA: A breast ultrasound dataset with BI-RADS categories
+# BUS-BRA: A breast ultrasound dataset with BI-RADS categories (source codes)
 
 We introduce a breast ultrasound (BUS) dataset containing images of 1,064 patients that underwent routinary breast studies. The BUS dataset contains biopsy-proven tumor cases and BI-RADS annotations in categories 2, 3, 4, and 5. In addition, the dataset also contains ground truth delineations that divide the BUS images into tumoral and normal regions. Our dataset can be publicly accessed and downloaded through the open-access Zenodo repository (https://zenodo.org) under the collection named "BUS-BRA: A breast ultrasound dataset with BI-RADS categories" (https://doi.org/10.5281/zenodo.7730709), with the condition that any research originating from using the BUS-BRA dataset needs to cite the following paper:
 
