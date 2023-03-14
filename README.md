@@ -11,3 +11,5 @@ Here, we provide the source codes to reproduce the experiments in the article th
 
 The BUS-BRA dataset should first be downloaded and decompressed in the root directory in both cases. Then run the file RUNME.m to reproduce the experiments using 5-fold cross-validation.
 
+![picture alt](https://github.com/wgomezf/BUS-BRA/blob/master/directory.png "Directory")
+
