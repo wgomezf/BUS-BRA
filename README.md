@@ -4,7 +4,7 @@ We introduce a breast ultrasound (BUS) dataset containing images of 1,064 patien
 
 Wilfrido Gómez-Flores, Maria Julia Gregorio-Calas, and Wagner Coelho de Albuquerque Pereira, "A Breast Ultrasound Dataset with BI-RADS Categories for Benchmarking Computer-aided Diagnosis Systems," Medical Physics, 2023. (In revision)
 
-Here, we provide the source codes to reproduce the experiments in the article through two frameworks developed in Matlab 2022b:
+Here, we provide the source codes to replicate the experiments in the article through two frameworks developed in Matlab 2022b:
 
 1. Segmentation: It contains the functions for semantic segmentation of BUS images using the DeepLabV3+ model with ResNet18 and ResNet50 back-bone networks for feature extraction.
 2. Classification:  It contains the functions for classifying BUS images into ways: 1) pathology classes in benign and malignant cases and 2) BI-RADS categories 2 to 5. The ResNet18 and ResNet50 deep networks are used for feature extraction.
