@@ -12,4 +12,3 @@ Here, we provide the source codes to replicate the experiments in the article th
 The BUS-BRA dataset should first be downloaded and decompressed in the root directory. Then run the RUNME.m file inside the Classification and Segmentation folders to reproduce the experiments using 5-fold cross-validation.
 
 ![picture alt](https://github.com/wgomezf/BUS-BRA/blob/main/directory.png "Directory")
-
